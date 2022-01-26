@@ -1,0 +1,159 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+html,body{
+    width:100%;
+    height:100%;
+    overflow: hidden;
+    font-family:groOvEd PERSONAL USE; 
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://thumbs.gfycat.com/FrigidLavishAmazondolphin-size_restricted.gif);  
+    background-size: cover;
+}
+
+#blur{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.418);
+}
+
+#main2{
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    height: 7%;
+
+}
+#nav{
+    display: flex;
+    width: 30%;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+}
+#pink{
+    margin-left: -100px;
+    font-size: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#nav2{
+    
+    display: flex;
+    width: 15%;
+    
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+}
+#nav3{
+    display: flex;
+    width: 15%;
+    
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+#box1{
+    position: absolute;
+    height: 85%;
+    width: 25%;
+    top: 9%;
+    left: 2%;
+    background-color: yellow;
+    border-radius: 9%;
+}
+#box1{
+    position: absolute;
+    height: 85%;
+    width: 22%;
+    top: 9%;
+    left: 2.5%;
+    background-image: url(https://images.unsplash.com/photo-1621786030484-4c855eed6974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+    background-size: cover;
+    background-position-x: -17px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.432);
+}
+
+#deal{
+    position: relative;
+    font-size: 60px;
+   
+  
+    text-align: center;
+    border-radius: 27px;
+
+   
+}
+
+#box2{
+    position: absolute;
+    height: 52%;
+    width: 22%;
+    top: 46%;
+    left: 27%;
+    background-image: url(https://media.istockphoto.com/photos/stack-of-folded-wool-knitted-sweaters-in-pink-pastel-colors-laying-on-picture-id1276406731?b=1&k=20&m=1276406731&s=170667a&w=0&h=L4EjK_UN8dFYCuPacbnGYrQ72ZC6ZoRUsMYi7WCX01M=);
+  background-size: cover;
+  background-position-x: -107px;
+    border-radius: 40px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.432);
+}
+#of{
+    position: relative;
+    font-size: 60px;
+    top: 80%;
+    text-align: center;
+    border-radius: 27px;
+}
+#box3{
+    position: absolute;
+    height: 85%;
+    width: 22%;
+    top: 9%;
+    left: 51%;
+    background-image: url(https://images.unsplash.com/photo-1502258097612-43e695deebad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBpbmslMjBjbG90aGVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.432);
+}
+#the{
+    position: relative;
+    font-size: 60px;
+    
+    text-align: center;
+    border-radius: 27px;
+
+}
+#box4{
+    position: absolute;
+    height: 52%;
+    width: 22%;
+    top: 47%;
+    left: 75%;
+    background-image: url(https://media.istockphoto.com/photos/cardiagan-and-sweaters-in-a-row-picture-id1096062248?b=1&k=20&m=1096062248&s=170667a&w=0&h=cBeI8kQ4uu2L2Gyzs9AiDHdxu7H-Z5iJwlAXkjafZLQ=);
+    background-size: cover;
+    background-position-x: -107px;
+   border-radius: 40px;
+    border-radius: 40px;
+    box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.432);
+}
+#day{
+    position: relative;
+    font-size: 60px;
+    top: 79.8%;
+    text-align: center;
+    border-radius: 27px;
+}
+
+
